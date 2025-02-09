@@ -1,0 +1,2 @@
+INFO     Test_UserLogin:test_UserLogin.py:18 We have started executing testcase test_VerifyUrl_001.
+INFO     Test_UserLogin:test_UserLogin.py:22 we have verified url by page title.
